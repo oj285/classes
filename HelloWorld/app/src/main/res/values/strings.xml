@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_get_name">Personalization</string>
+    <string name="whats_your_name">Hello! What\'s your name?</string>
+
+    <string name="latitude">Location not available</string>
+    <string name="longitude">Location not available</string>
+</resources>
